@@ -1,0 +1,27 @@
+body{
+    background-image: url("b1.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.s1{
+    position:relative;
+    
+    
+
+    
+}
+#one{
+    
+    width: 200px;
+    height: 200px;
+    background:black;
+    animation:mymove 5s infinte;
+}
+
+@keyframes mymoves{
+
+  from {background-color: black;}
+  to {background-color: gray;}
+}
