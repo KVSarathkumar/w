@@ -39,11 +39,18 @@
 
     </ul>
     
-    <img id="id" src="msd1.jpeg" style="float:right;" >
+          <img id="id" src="msd1.jpeg" style="float:right;" >
          <div class="sw">
         <p id="ex">Mahendra Singh Dhoni (About this soundpronunciation (help·info) born 7 July 1981), is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014. He is the only captain in the history of Cricket to win all ICC trophies. Under his captaincy, India won the 2007 ICC World Twenty20, the 2010 and 2016 Asia Cups, the 2011 ICC Cricket World Cup and the 2013 ICC Champions Trophy.
          </p>
          <p>A right-handed middle-order batsman and wicket-keeper, Dhoni is one of the highest run scorers in One Day Internationals (ODIs) with more than 10,000 runs scored and is considered an effective "finisher" in limited-overs formats.[2][3][4][5] He is also regarded by some as one of the best wicket-keepers and captains in modern limited-overs international cricket.[6]</p>
+             
+            <p id="ex">Dhoni also holds numerous captaincy records such as the most wins by an Indian captain in ODIs and T20Is, and most back-to-back wins by an Indian captain in ODIs. He took over the ODI captaincy from Rahul Dravid in 2007 and led the team to its first-ever bilateral ODI series wins in Sri Lanka and New Zealand. In June 2013, when India defeated England in the final of the Champions Trophy in England, Dhoni became the first captain to win all three ICC limited-overs trophies (World Cup, Champions Trophy and the World Twenty20). After taking up the Test captaincy in 2008, he led the team to series wins in New Zealand and the West Indies, and the Border-Gavaskar Trophy in 2008, 2010 and 2013. In 2009, Dhoni also led the Indian team to number one position for the first time in the ICC Test rankings.
+             
+             
+             </p>
+             <p id="ex">In 2013, under his captaincy, India became the first team in more than 40 years to whitewash Australia in a Test series. In the Indian Premier League, he captained the Chennai Super Kings to victory at the 2010, 2011 and 2018 seasons, along with wins in the 2010 and 2014 editions of Champions League Twenty20. In 2011, Time magazine included Dhoni in its annual Time 100 list as one of the "Most Influential People in the World."[9] Dhoni holds the post of Vice-President of India Cements Ltd., after resigning from Air India. India Cements is the owner of the IPL team Chennai Super Kings, and Dhoni has been its captain since the first IPL season.[10][11] He announced his retirement from Tests on 30 December 2014.[12]</p>
+             </div>
              </div>
  
 
